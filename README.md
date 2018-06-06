@@ -1,4 +1,7 @@
 # Bigybox
+
+**this project is abandoned**
+
 An unofficial partially broken API for Czech online grading system Bakaláři written in C#
 
 I know that the code is absoltely terrible but it might be useful. 
